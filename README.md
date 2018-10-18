@@ -1,2 +1,10 @@
 # yolo_python
-yolov3的一些使用脚本
+yolov3的一些使用脚本:
+
+voc_annotation.py是将voc格式的xml转换成yolo需要的txt
+
+CSV_to_labelTxt.py是将CSV格式转换成yolo的txt
+
+create_listTxt.py是生成yolo需要的所有图片绝对路径到txt
+
+kmeans.py是聚类，生成自己数据集的聚类中心点
